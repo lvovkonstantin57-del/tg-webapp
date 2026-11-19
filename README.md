@@ -1,8 +1,6 @@
+<p align="center"><img src=".github/banner.svg" alt="tg-webapp" width="100%"></p>
+
 <div align="center">
-
-# ✈️ Расписание МПГУ — Telegram Mini App
-
-**Первая версия расписания для Института биологии и химии МПГУ — мини-приложение внутри Telegram**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -11,21 +9,21 @@
 
 </div>
 
-## ✨ Возможности
+## Возможности
 
 - Расписание групп с выбором подгрупп и практик
 - Оформление в стиле iOS: цвета берутся из темы Telegram, светлая и тёмная темы
 - Данные — в `groups.json`, интерфейс — один файл `index.html` без сборки и зависимостей
 - Работает на GitHub Pages, открывается кнопкой в боте
 
-## 📂 Файлы
+## Файлы
 
 ```
 index.html    интерфейс мини-приложения
 groups.json   расписание групп и варианты подгрупп
 ```
 
-## 🔄 Что дальше
+## Что дальше
 
 Проект вырос в полноценное приложение с сервером, ролями, посещаемостью и версиями для Android и iOS — **[mpgu-timetable](https://github.com/lvovkonstantin57-del/mpgu-timetable)** · [mpgu-timetable.ru](https://mpgu-timetable.ru)
 
